@@ -1,0 +1,2 @@
+# ChipsHack-Rewrite
+ChipsHack Rewrite.
