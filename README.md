@@ -1,2 +1,2 @@
 # ChipsHack-Rewrite
-ChipsHack Rewrite & Buildable SRC.
+ChipsHack Rewrite.
