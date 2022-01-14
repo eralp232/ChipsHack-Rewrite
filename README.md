@@ -1,2 +1,1 @@
-# ChipsHack-Rewrite
-cool hack
+
