@@ -1,1 +1,1 @@
-ChipsHack Rewriten Version by CumHax & Eralp232
+public chipshack-rewrite, put da jar to mods folder. open with forge 1.12.2 and done. credit goes to cumhax, i own github.
