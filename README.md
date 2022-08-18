@@ -1,1 +1,3 @@
-public chipshack-rewrite, put da jar to mods folder. open with forge 1.12.2 and done. credit goes to cumhax, im owning github.
+**ChipsHack-Rewrite 0.3 & 0.4**
+
+ChipsHack-Rewrite is a utility mod for anarchy servers. Put the jar to .minecraft/mods folder, open with Forge 1.12.2 and done. Thanks for Cumhax for developing ChipsHack & ChipsHackRewrite. Im owning ChipsHack-Rewrite github, That was cool project.
