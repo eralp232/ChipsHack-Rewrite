@@ -1,7 +1,6 @@
-<h1 align="center">ChipsRewrite</h1>  
-<h3 align="center">Minecraft utility mod for anarchy servers</h3>  
+<h1 align="center">ChipsHack-Rewrite</h1>  
+<h3 align="center">Minecraft player assistance utility mod for Minecraft 1.12.2</h3>  
   
-Public cuz i got bored of this
 ## Installing
 
  1. Install Minecraft Forge for version 1.12.2
