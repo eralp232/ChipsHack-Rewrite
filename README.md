@@ -1,3 +1,17 @@
-**ChipsHack-Rewrite 1.12.2**
+<h1 align="center">ChipsRewrite</h1>  
+<h3 align="center">Minecraft utility mod for anarchy servers</h3>  
+  
+Public cuz i got bored of this
+## Installing
 
-ChipsHack-Rewrite is player assistance utility mod for anarchy servers. Put the jar to .minecraft/mods folder, open with Forge 1.12.2 and done. Thanks for Cumhax for developing ChipsHack & ChipsHackRewrite. Im owning ChipsHack-Rewrite's github, That was cool project.
+ 1. Install Minecraft Forge for version 1.12.2
+ 2. Download the latest version from the releases tab. (If available)
+ 3. Navigate to your `.minecraft/mods` folder.
+ 4. Put the downloaded file in the folder.
+ 5. Launch Minecraft Forge.
+
+## Building
+
+ 1. Clone the repository. `git clone
+ 2. Open the cloned folder in your IDE of choice
+ 3. Add `-Dfml.coreMods.load=MixinLoader` to JVM options
