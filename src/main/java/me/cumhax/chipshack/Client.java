@@ -17,11 +17,11 @@ import java.awt.*;
 import java.io.IOException;
 import org.lwjgl.opengl.Display;
 
-@Mod(modid = "chipshackrewrite", name = "ChipsHackRewrite", version = "b1")
+@Mod(modid = "chipshackrewrite", name = "ChipsHackRewrite", version = "0.4")
 public class Client
 {
         public static final String NAME = "ChipsHack";
-        public static final String VERSION = "b1 Rewrite";
+        public static final String VERSION = "0.4";
 	public static ModuleManager moduleManager;
 	public static SettingManager settingManager;
 	public static CustomFontRenderer customFontRenderer;
