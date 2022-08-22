@@ -1,7 +1,6 @@
 <h1 align="center">ChipsHack-Rewrite</h1>  
 <h3 align="center">Minecraft player assistance utility mod for Minecraft 1.12.2</h3>  
   
-Info : Oyvey Based Player assistance utility mod for anarchy servers like 9b9t, 2b2t. I started this project on late 2021, BerryClient project was discontinued in May 2022.
 
 ## Installing
 
